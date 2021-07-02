@@ -8,4 +8,9 @@ class HelloWorldTest {
     public void runShouldSucceed() {
         new HelloWorld().run();
     }
+
+    @Test
+    public void runAwayShouldSucceed() {
+        new HelloWorld().runAway();
+    }
 }
