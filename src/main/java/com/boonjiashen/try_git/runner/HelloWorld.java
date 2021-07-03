@@ -1,4 +1,4 @@
-package com.boonjiashen.try_git;
+package com.boonjiashen.try_git.runner;
 
 public class HelloWorld {
 

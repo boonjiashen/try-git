@@ -1,4 +1,4 @@
-package com.boonjiashen.try_git;
+package com.boonjiashen.try_git.runner;
 
 import org.junit.jupiter.api.Test;
 
